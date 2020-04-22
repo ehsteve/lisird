@@ -1,9 +1,42 @@
 A Python package to interface with the LASP Interactive Solar Irradiance Data Center
 ------------------------------------------------------------------------------------
 
-.. image:: http://img.shields.io/badge/powered%20by-SunPy-orange.svg?style=flat
+.. start-badges
+
+.. list-table::
+    :stub-columns: 1
+
+    * - docs
+      - |docs|
+    * - build status
+      - |build| |coverage|
+    * - acknowledgement
+      - |poweredby|
+
+.. |docs| image:: https://readthedocs.org/projects/lisird/badge/?version=latest
+    :target: https://lisird.readthedocs.io/en/latest/?badge=latest
+    :alt: Documentation Status
+
+.. |build| image:: https://circleci.com/gh/ehsteve/lisird.svg?style=svg
+    :target: https://circleci.com/gh/ehsteve/lisird
+    :alt: Build Status
+
+.. |coverage| image:: https://coveralls.io/repos/github/ehsteve/lisird/badge.svg?branch=master
+    :target: https://coveralls.io/github/ehsteve/lisird?branch=master
+    :alt: Coverage Status
+
+.. |poweredby| image:: http://img.shields.io/badge/powered%20by-SunPy-orange.svg?style=flat
     :target: http://www.sunpy.org
     :alt: Powered by SunPy Badge
+
+.. end-badges
+
+.. image:: https://lasp.colorado.edu/lisird/6378dd824a9ebe6c54ac6d89efd244f8.jpg
+    :target: https://lasp.colorado.edu/lisird/
+    :height: 100
+    :width: 400
+
+
 
 License
 -------
