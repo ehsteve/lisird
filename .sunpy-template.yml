@@ -1,0 +1,12 @@
+default_context:
+  package_name: lisird
+  module_name: lisird
+  short_description: A Python package to interface with the LASP Interactive Solar Irradiance Data Center
+  author_name: 
+  author_email: 
+  license: BSD 3-Clause
+  project_url: https://lasp.colorado.edu/lisird/
+  github_repo: ehsteve/lisird
+  minimum_python_version: 3.6
+  use_compiled_extensions: n
+  include_example_code: n
