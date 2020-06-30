@@ -149,3 +149,5 @@ docs/api
 docs/whatsnew/latest_changelog.txt
 lisird/version.py
 htmlcov/
+
+lisird/data/catalog.txt
